@@ -1,0 +1,5 @@
+.bg-login-imagen, .bg-register-imagen, .bg-password-imagen {
+    background: url("../../img/login.png");
+    background-position: center;
+    background-size: cover;
+}
